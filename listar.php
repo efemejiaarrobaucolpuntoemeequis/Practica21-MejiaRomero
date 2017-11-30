@@ -18,7 +18,7 @@
     <link href="css/plugins/metisMenu/metisMenu.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/sb-admin-2.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
  
 
 </head>
@@ -54,15 +54,15 @@ require "cfg/conexion.php";
    <button type="button" class="btn btn-success" onclick="window.location.href='sala_remota.html'">Agregar Sala</button>
    </div>
     <!-- jQuery -->
-    <script src="../js/jquery.js"></script>
+    <script src="../js/jquery-1.11.0.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="../js/bootstrap.min.js"></script>
 
-    <!-- Metis Menu Plugin JavaScript -->
-    <script src="../js/plugins/metisMenu/metisMenu.min.js"></script>
+    <!-- Metis Menu Plugin CSS 
+    <script src="../css/plugins/metisMenu/metisMenu.min.css"></script> -->
 
-    <!-- Custom Theme JavaScript -->
-    <script src="../.js/sb-admin-2.js"></script>
+    <!-- Custom Theme JavaScript 
+    <script src="../.js/bootstrap.js"></script> -->
 
 </body>
